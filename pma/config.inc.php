@@ -16,6 +16,8 @@
  */
 $cfg['blowfish_secret'] = 'supersecret123###'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
 
+$cfg['SessionSavePath'] = '/tmp/session';
+
 /*
  * Servers configuration
  */
